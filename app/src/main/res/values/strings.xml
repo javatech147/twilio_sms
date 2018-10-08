@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Otp Sender</string>
+    <string name="txt_all_contacts">All Contacts</string>
+    <string name="txt_sent">Sent</string>
+    <string name="txt_exit_app_alert">Are you sure you want to exit ?</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+    <string name="txt_send_otp">Send Otp</string>
+    <string name="txt_contact_info">Contact Info</string>
+</resources>
